@@ -1,8 +1,7 @@
-# readme-pro
-
 
 # table funds
 
+<div style="direction: rtl">
 <table style="direction: rtl;background-color: red" >
     <tr><th>name</th><th>type</th><th>default</th><th>index</th></tr>
     <tr><th>id</th><th>int</th><th>none</th><th>primary</th></tr>
@@ -40,9 +39,9 @@
 
 ## Description of table fields funds
 
-<table style="background-color: red">
+<table style="text-align: right">
     <tr><th>name</th><th>description</th></tr>
-    <tr><th>id</th><td><b>این فیلد شماره هر سطر رو درون خودش ذخیره می کند</b></td></tr>
+    <tr><th>id</th><td><b style="color:red">این فیلد شماره هر سطر رو درون خودش ذخیره می کند</b></td></tr>
     <tr><th>name</th><td><b> در این فیلد نام صندوق ذخیره می شود</b></td></tr>
     <tr><th>user_id</th><td><b>در این فیلد نام صاحب صندوق ذخیره می شود</b></td></tr>
     <tr><th>stock_count</th><td><b> تعداد سهم صندوق رو مشخص می کنه  </b></td></tr>
@@ -54,3 +53,4 @@
     <tr><th>created_at</th><td><b>در این فیلد تاریخ ایجاد صندوق  ذخیره می شود </b></td></tr>
     <tr><th>updated_at</th><td><b>در این فیلد تاریخ تغییر صندوق  ذخیره می شود </b></td></tr>
 </table> 
+</div>
