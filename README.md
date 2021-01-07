@@ -1,7 +1,6 @@
 
 # table funds
-<div style="background-color: red;width: 200px;height: 200px">ssdssdsssddsss</div>
-<div style="direction: rtl;display:flex;justify-content:start">
+<div direction="ltr" style="display:flex;justify-content:start">
 <table style="direction: rtl;background-color: red" >
     <tr><th>name</th><th>type</th><th>default</th><th>index</th></tr>
     <tr><th>id</th><th>int</th><th>none</th><th>primary</th></tr>
